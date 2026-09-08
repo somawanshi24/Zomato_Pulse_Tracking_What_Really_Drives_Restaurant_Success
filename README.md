@@ -17,7 +17,7 @@ A single-page, navigation driven Power BI dashboard analyzing 9,500+ restaurants
     <td><img src="./Insights_Landing_Page_5.png" width="380"></td>
     <td></td>
   </tr>
-</table>
+</table>>
 
 
 ---
