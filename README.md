@@ -2,25 +2,9 @@
 
 A single-page, navigation-driven Power BI dashboard analyzing 9,500+ restaurants across 15 countries, built as a Business Analyst portfolio project. Styled as a branded executive dashboard with bookmark-based section navigation, giving the feel of a multi screen app on one page.
 ## Dashboard Preview
-###Page 1 - OVERVIEW
 ![Dashboard Landing Page1](./
 Dashboard Landing Page1.png)
 
-###Page 2 - OVERVIEW
-![Dashboard Landing Page1](./
-Dashboard Landing Page2.png)
-
-###Page 3 - OVERVIEW
-![Dashboard Landing Page1](./
-Dashboard Landing Page3.png)
-
-###Page 4 - OVERVIEW
-![Dashboard Landing Page1](./
-Dashboard Landing Page4.png)
-
-###Page 5 - OVERVIEW
-![Dashboard Landing Page1](./
-Dashboard Landing Page5.png)
 ---
 
 ## Business Scenario
