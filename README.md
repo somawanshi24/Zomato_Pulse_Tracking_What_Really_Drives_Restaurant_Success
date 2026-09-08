@@ -1,7 +1,7 @@
 # Zomato Business Intelligence Dashboard
 
 A single-page, navigation-driven Power BI dashboard analyzing 9,500+ restaurants across 15 countries, built as a Business Analyst portfolio project. Styled as a branded executive dashboard with bookmark-based section navigation, giving the feel of a multi screen app on one page.
-
+![Dashboard Landing Page](Dashboard_Landing_Page.png)
 ---
 
 ## Business Scenario
