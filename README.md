@@ -6,7 +6,7 @@ A single-page, navigation-driven Power BI dashboard analyzing 9,500+ restaurants
 
 ## Dashboard Preview
 
-![Zomato Dashboard Overview](./screenshots/01_dashboard_overview.png)
+![Zomato Dashboard Overview](./Dashboard_Landing_Page_1.png)
 
 *Overview & Pricing section — add screenshots for your other sections (Market, City Drill Down, Cuisines & Engagement, Insights) into the [`screenshots/`](./screenshots) folder using the same naming pattern.*
 
