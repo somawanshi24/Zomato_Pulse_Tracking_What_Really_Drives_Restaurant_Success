@@ -12,6 +12,16 @@ A single-page, navigation driven Power BI dashboard analyzing 9,500+ restaurants
 ![Dashboard_Landing_Page_4](./Dashboard_Landing_Page_4.png)
 ![Dashboard_Landing_Page_5](./Dashboard_Landing_Page_5.png)
 
+<img src="./Dashboard_Landing_Page_1.png" width="700" alt="Dashboard Landing Page 1">
+
+<img src="./Dashboard_Landing_Page_2.png" width="700" alt="Dashboard Landing Page 2">
+
+<img src="./Dashboard_Landing_Page_3.png" width="700" alt="Dashboard Landing Page 3">
+
+<img src="./Dashboard_Landing_Page_4.png" width="700" alt="Dashboard Landing Page 4">
+
+<img src="./Dashboard_Landing_Page_5.png" width="700" alt="Dashboard Landing Page 5">
+
 
 
 ---
