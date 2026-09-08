@@ -26,7 +26,7 @@ A single-page, navigation driven Power BI dashboard analyzing 9,500+ restaurants
 
 > "We want to double down on our strongest markets and fix underperforming ones. Give us a dashboard that tells us: where are we winning, where are we losing, and what's driving the difference — price, cuisine mix, or service features like delivery/table booking?"
 
-Full requirements are documented in [`BRD_Zomato_BI_Dashboard_v2.md`](./BRD_Zomato_BI_Dashboard_v2.md).
+Full requirements are documented in [`BRD_Zomato_BI_Dashboard_v2.md`](./BRD_Zomato_BI_Dashboard.md).
 
 ---
 
@@ -79,7 +79,7 @@ Navigation buttons remain visible across all sections, and the Country slicer se
 ```
 zomato-bi-dashboard/
 ├── README.md
-├── BRD_Zomato_BI_Dashboard_v2.md
+├── BRD_Zomato_BI_Dashboard.md
 ├── dashboard/
 │   └── Zomato_BI_Dashboard.pbix
 ├── data/
