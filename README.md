@@ -107,5 +107,5 @@ zomato-bi-dashboard/
 
 ## Author
 
-[Your Name] Aspiring Business Analyst
-[LinkedIn] · [Portfolio link]
+[Neha Somawanshi] Aspiring Business Analyst
+[www.linkedin.com/in/neha-somawanshi-791378308] · [Portfolio link]
