@@ -7,6 +7,10 @@ A single-page, navigation-driven Power BI dashboard analyzing 9,500+ restaurants
 ## Dashboard Preview
 
 ![Dashboard_Landing_Page_1](./Dashboard_Landing_Page_1.png)
+![Dashboard_Landing_Page_2](./Dashboard_Landing_Page_2.png)
+![Dashboard_Landing_Page_3](./Dashboard_Landing_Page_3.png)
+![Dashboard_Landing_Page_4](./Dashboard_Landing_Page_4.png)
+![Dashboard_Landing_Page_5](./Dashboard_Landing_Page_5.png)
 
 *Overview & Pricing section — add screenshots for your other sections (Market, City Drill Down, Cuisines & Engagement, Insights) into the [`screenshots/`](./screenshots) folder using the same naming pattern.*
 
